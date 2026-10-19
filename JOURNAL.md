@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 2 | 19.16h | 6 |
+| Week 2 | Tier 2 | 19.66h | 6 |
 
 ## Contents
 
@@ -107,7 +107,7 @@ Then I switched over to using the measure tool in Onshape. The measure tool was 
 
 ### 2026-10-18 – Final Entry: Parts
 
-**5h**
+**5.5h**
 
 Final Entry: Parts
 
@@ -116,6 +116,8 @@ Today was all spent looking at prices.
 First, I worked on finding deals for my 3d printed mechanism. I knew it would be expensive because, in total, I had 12 parts being printed, and the robotic arm is definitely not small, so the expected price was already $30 in my mind. $30 is a lot, but also decently manageable.
 
 I first looked at CraftCloud. Gemini told me that CraftCloud has the best quality for price. They are a company that is based overseas in Germany. CraftCloud was working decently well for me, and I got a good quote too at just $25. It was a decent quote, so I went through with it and went to checkout. There I noticed a $30 shipping fee. With just my 3d print, my budget was over. In hindsight, it kind of makes sense because they are based in Germany.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wqTzuosjo4Cs9kmuI53ss6gj7yDmRmwn/c253c548c7e6e22e1525e8bfddc8cdfc6bae2f545a49f6ce3f9041c392124cf7.png)
 
 Next, I went on to look at PCBWay. I have heard a lot of great things about PCBWay from many different engineering YouTube channels. They, too, charged way too much, but from a different perspective. For them, shipping was minimal at only $5, but each part was ~$5, so that added up quickly given the amount of parts that I had.
 
